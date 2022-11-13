@@ -10,6 +10,11 @@
       "StackName": "amplify-pmsannart-dev-220902",
       "StackId": "arn:aws:cloudformation:eu-central-1:347193635604:stack/amplify-pmsannart-dev-220902/671f00d0-6397-11ed-b807-0a718feb5b72",
       "AmplifyAppId": "dv00obxhtddky"
+    },
+    "categories": {
+      "api": {
+        "pmsannart": {}
+      }
     }
   }
 }
