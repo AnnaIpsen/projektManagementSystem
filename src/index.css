@@ -7,6 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  --amplify-primary-color: #FFF;
+  --amplify-primary-tint: #FFF;
+  --amplify-primary-shade: #FFF;
+  --amplify-background-color: #FFF;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
